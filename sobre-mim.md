@@ -1,0 +1,40 @@
+Olá, eu sou masumi satoshi (真澄  狐聡)
+
+# Quem eu sou?
+Eu sou alguém com 21 anos atualmente, faço aniversário em 07/06, nascido em 2004, sendo uma pessoa atualmente adulta e com desempregado, que continua aprendendo GDscript da Godot pelo celular.
+
+# Habilidades
+Filosofia que sigo não é filosofia **distorcida pelo sistema** e sim a fui ensinado de forma corretamente.
+Sendo claramente a filosofia de **Friedrich Nietzsche**, **Baruch Espinoza**, **Estoicismo**.
+
+Matemática, sei bem como funciona fórmulas que conheço, claramente sei vê que básico se aplica ao avançado.
+Física, por mais que tenha aprendido pouco, compreendo que possivelmente tem haver com matemática
+
+## Programação
+**C**: linguagem que eu busquei aos 16 ou 17 anos, dei uma estudada e poucas coisas ainda lembro ou simplesmente esqueci
+**C++**: Não sei tudo dele, pretendendo aprender com essa linguagem do melhor jeito
+**GDscript**: Em aprendizado, sendo sincero essa linguagem eu sei que nescessário para mim, mas ainda estou em aprendizado.
+
+# Personalidade
+## Qualidades boas
+Amoroso, carinhoso, ouvinte, tímido, quieto, introvertido, bondoso, paciente 
+
+## Qualidades ruins
+teimoso (depende muito como você enxerga eu), timidez (pode se mal visto também), sincero
+
+## MBTI
+INFJ-A
+
+
+## Brain Five
+### Neuroticismo
+Sua pontuação para "neuroticismo é baixa, indicando que você é bastante calmo, 
+equilibrado e estável. Você não reage com emoções intensas em situações difíceis. Em 
+momentos de estresse você tende a ser bastante tranquilo e não responde 
+emocionalmente com raiva. Geralmente confiam em sua capacidade de lidar com 
+situações adversas ou desconfortáveis.
+
+### Extroversão
+Sua pontuação para "extroversão" é baixa, indicando que você tende a ser mais 
+introvertido, reservado e tranquilo. Você curte a solidão e atividades individuais. Ter 
+alguns amigos próximos pra você já é um grande nível de socialização.
