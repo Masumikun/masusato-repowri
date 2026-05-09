@@ -33,3 +33,13 @@ Abordagem: **58%** Planejador<br>
 Identidade: **61%** Assertivo
 
 # Interesses
+Por jogos indies, roguelikes, tycoon, estratégia (xadrez, táticos, RPGs), simulação, debate dialeticos<br>
+Leitura, escrita, codar<br>
+
+# Ocupações
+Desempregado<br>
+Solteiro
+
+
+Não sou CLT, mas sinceramente eu ainda busco por conhecimento, estou sempre querendo aprender no nível que posso, apesar de se vagaroso, eu estou disposto a saber nescessário para minha evolução<br>
+
